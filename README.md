@@ -1,6 +1,6 @@
 # MERN Stack whatsapp clone
 
-Whatsapp web clone made with MERN Stack (Mongodb Expressjs Reactjs Nodejs)  
+Whatsapp web clone made with MERN Stack from Clever programmer tutorial (Mongodb Expressjs Reactjs Nodejs)  
 
 ## How to run the app
 
