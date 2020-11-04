@@ -3,6 +3,7 @@ import "./Chat.css";
 import { Avatar, IconButton } from "@material-ui/core";
 import { AttachFile, MoreVert, SearchOutlined } from "@material-ui/icons";
 import EmojiEmotionsOutlinedIcon from "@material-ui/icons/EmojiEmotionsOutlined";
+import MicOutlinedIcon from "@material-ui/icons/MicOutlined";
 
 export const Chat = () => {
   return (
@@ -39,6 +40,11 @@ export const Chat = () => {
       </div>
       <div className="chat_footer">
         <EmojiEmotionsOutlinedIcon />
+        <form>
+          <input type="text" placeholder="Type a message" />
+          <button type="submit">Send a message</button>
+        </form>
+        <MicOutlinedIcon />
       </div>
     </div>
   );
