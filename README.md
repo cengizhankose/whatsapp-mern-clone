@@ -7,7 +7,7 @@ Whatsapp web clone made with MERN Stack (Mongodb Expressjs Reactjs Nodejs)
 1.Download the code  
 2.Install all dependencies using the `npm i` command.  
 3.Start the app using the `yarn start` or `npm start` command.  
-4.Download the code for backend from [Here](https://github.com/cengizhankose/whatsapp-backend) 
+4.Download the code for backend from [Here](https://github.com/cengizhankose/whatsapp-backend)  
 5.Install all dependencies using the `npm i` command.  
 7.Start the backend app using the `npm run serve` command.  
 6.Project is going to open on your localhost:3000 in default browser.  
