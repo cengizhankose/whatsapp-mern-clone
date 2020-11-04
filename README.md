@@ -22,12 +22,12 @@ Write some messages and send them to a real time database
 
 ## Dependencies
 
--[MongoDB](https://www.mongodb.com/) 
--[ExpressJS](https://expressjs.com/) 
--[React](https://reactjs.org/) 
--[NodeJS](https://nodejs.org/en/) 
--[Pusher](https://pusher.com/) 
--[MaterialUI](https://material-ui.com/) 
+-[MongoDB](https://www.mongodb.com/)  
+-[ExpressJS](https://expressjs.com/)  
+-[React](https://reactjs.org/)  
+-[NodeJS](https://nodejs.org/en/)  
+-[Pusher](https://pusher.com/)  
+-[MaterialUI](https://material-ui.com/)  
 
 
 ## What the app looks like
