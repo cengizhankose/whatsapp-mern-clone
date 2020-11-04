@@ -32,4 +32,6 @@ Write some messages and send them to a real time database
 
 ## What the app looks like
 
-![alt text](https://github.com/cengizhankose/react_native_calculator/blob/main/ss.png)
+![alt text](https://github.com/cengizhankose/whatsapp-mern-clone/blob/master/1.png)
+![alt text](https://github.com/cengizhankose/whatsapp-mern-clone/blob/master/2.png)
+![alt text](https://github.com/cengizhankose/whatsapp-mern-clone/blob/master/3.png)
